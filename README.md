@@ -49,7 +49,7 @@ MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
 ## 【预期目标】
 ### 第一题：简单的内存分配器
 - 实现一个内存分配器（allocator），并具备基本的功能;
-- 支持的接口至少包括malloc、alloc、calloc、realloc、free;
+- 支持的接口至少包括malloc、calloc、realloc、free;
 - 具体实现可参考glibc/Ptmalloc2、[_mimalloc_](https://github.com/microsoft/mimalloc) 、[_tcmalloc_](https://github.com/gperftools/gperftools)、[_jemalloc_](https://github.com/jemalloc/jemalloc)。
 
 ### 第二题：支持多线程的高效内存分配器
