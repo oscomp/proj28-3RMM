@@ -29,9 +29,9 @@ A Reliable, Robust, Real-time Memory Manager
 - 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
 
 ### 【项目导师】
-刘志立
-- github https://github.com/liuzhili-ya
-- email zhili.liu@ucas.com.cn
+刘冬华
+- github https://github.com/cliff-china
+- email donghua.liu@ucas.com.cn
 
 ### 【难度】
 中等
