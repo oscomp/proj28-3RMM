@@ -28,12 +28,12 @@ A Reliable, Robust, Real-time Memory Manager
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
 
-### 【项目导师】
+### 项目导师
 刘冬华
 - github https://github.com/cliff-china
 - email donghua.liu@ucas.com.cn
 
-### 【难度】
+### 难度
 中等
 
 ### 【特征】
